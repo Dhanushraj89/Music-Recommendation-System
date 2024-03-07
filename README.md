@@ -1,4 +1,4 @@
-Music Recommendation System<br>
+# Music Recommendation System<br>
 
 The Music Recommendation System is a sophisticated web-based application designed to forecast music popularity and provide personalized song recommendations based on user preferences. It leverages an enhanced Long Short-Term Memory (LSTM) neural network model to analyze a comprehensive dataset from Spotify, encompassing both textual (genre) and numerical (audio characteristics) data. This system offers users an engaging and interactive music discovery experience, contributing to the dynamic landscape of music streaming services.<br>
 

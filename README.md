@@ -26,11 +26,6 @@ Getting Started:<br>
 - Make sure to install the necessary Python libraries specified in the notebook using pip install.<br>
 - Follow the instructions provided in the notebook for data preprocessing, model training, and prediction generation.<br>
 
-Contributors:<br>
-Arvind Raman<br>
-Dhanush Raj<br>
-Prajakta More<br>
-
 Future Enhancements:<br>
 - Integration of real-time user feedback and ratings to further personalize recommendations.<br>
 - Enhancement of model training techniques to adapt to evolving music trends and user preferences.<br>
@@ -40,3 +35,8 @@ References:<br>
 - Galety, M. G., Thiagarajan, R., Sangeetha, R., Vignesh, L. K. B., Arun, S., & Krishnamoorthy, R. (2022). Personalized Music Recommendation model based on Machine Learning. 2022 8th International Conference on Smart Structures and Systems (ICSSS).<br>
 - Joel, J. S., Thompson, B. E., Thomas, S. R., Kumar, T. R., Prince, S., & Bini, D. (2023). Emotion-based Music Recommendation System using Deep Learning Model. 2023 International Conference on Inventive Computation Technologies (ICICT).<br>
 - Joshi, S., Jain, T., & Nair, N. (2021). Emotion Based Music Recommendation System Using LSTM - CNN Architecture. 2021 12th International Conference on Computing Communication and Networking Technologies (ICCCNT).<br>
+
+Contributors:<br>
+Arvind Raman<br>
+Dhanush Raj<br>
+Prajakta More<br>
